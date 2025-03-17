@@ -2,9 +2,11 @@
 
 ## Team Members  
 
-- **Team Leader:** Emanuela Dyrmishi -GitHub: Emanueladyrmishi  
+- **Team Leader:** Emanuela Dyrmishi -
+-  GitHub: Emanueladyrmishi  
 
-- **Member 1:** Odri Bregu - GitHub: Odribregu
+- **Member 1:** Odri Bregu -
+-  GitHub: Odribregu
 
 - **Member 2:** Marin Spaha -
 - GitHub: Marinspaha 
